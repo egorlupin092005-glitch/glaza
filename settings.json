@@ -1,0 +1,13 @@
+{
+  "camera": 0,
+  "mirror": true,
+  "invert_pan": false,
+  "invert_tilt": true,
+  "pan_min": 45,
+  "pan_max": 135,
+  "tilt_min": 60,
+  "tilt_max": 120,
+  "smoothing": 0.35,
+  "deadzone": 0.07,
+  "speed": 85
+}
